@@ -1,3 +1,0 @@
-# Summary
-
-- [Setup](./setup.md)
